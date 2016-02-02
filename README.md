@@ -1,2 +1,3 @@
 # Android_Project
-tests and backup for android section of project
+tests and backup for android section of project.
+Finished tutorial.
